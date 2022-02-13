@@ -38,6 +38,48 @@ html, body {
   text-align: center;
 }
 
+b{
+  font-size: 50px;
+}
+
+p {
+  font-size: 25px;
+  position: center;
+}
+h2{
+  font-size: 35px;
+}
+
+h3{
+  font-size: 30px;
+}
+
+.flex-container1{
+  display: flex;
+}
+
+.flex-container2{
+  display: flex;
+  border-color:azure;
+  border-width: 2px;
+  border-style: solid;
+}
+
+.flex-container3{
+  display: flex;
+  border-color: azure;
+  border-width: 2px;
+  border-style: solid;
+}
+
+.flex-child {
+  flex:1;
+}
+
+.flex-child:first-child{
+  margin-right: 20px;
+}
+
 
 .footer-container {
   background-color:#212329;
