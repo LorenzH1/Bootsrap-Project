@@ -60,6 +60,21 @@ hr{
   margin-left: auto;
   margin-right: auto;
 }
+.hr-2{
+  background-color: white;
+  height: 1px;
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Field{
+  width: 70%;
+  height: 60%; 
+  border-width: 2px;
+  border-style:double;
+  border-color: aliceblue;
+}
 
 .footer-container {
   background-color:#212329;
