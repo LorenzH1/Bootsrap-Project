@@ -40,26 +40,26 @@ html, body {
 }
 
 .Robot{
-  width: 80%;
-  height: 90%;
+  width: 100%;
+  height: 100%;
   border-radius: 10%;
   padding: 20px;
 }
 
 b{
-  font-size: 50px;
+  font-size: 60px;
 }
 
 p {
-  font-size: 25px;
+  font-size: 30px;
   position: center;
 }
 h2{
-  font-size: 35px;
+  font-size: 40px;
 }
 
 h3{
-  font-size: 30px;
+  font-size: 35px;
 }
 hr{
   background-color: white;
