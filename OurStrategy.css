@@ -39,19 +39,19 @@ html, body {
   text-align: center;
 }
 b{
-  font-size: 50px;
+  font-size: 60px;
 }
 
 p {
-  font-size: 25px;
+  font-size: 30px;
   position: center;
 }
 h2{
-  font-size: 35px;
+  font-size: 40px;
 }
 
 h3{
-  font-size: 30px;
+  font-size: 35px;
 }
 hr{
   background-color: white;
@@ -74,6 +74,10 @@ hr{
   border-width: 2px;
   border-style:double;
   border-color: aliceblue;
+}
+
+.Timestamps{
+  font-size:35px;
 }
 
 .footer-container {
